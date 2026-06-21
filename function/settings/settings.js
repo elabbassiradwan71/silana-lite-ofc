@@ -14,10 +14,10 @@ global.setting = {
  }
 
 global.info = {
- nomerbot : '380916466121',
- pairingNumber : '380916466121',
+ nomerbot : '212689698450',
+ pairingNumber : '212689698450',
  figlet: 'silanalite', // create a start console display
- nomorwa : '212605784394',
+ nomorwa : '212689698450',
  nameown : 'Radwane',
  nomerown : '380916466121',
  packname : 'sticker by ',
